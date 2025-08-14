@@ -1,13 +1,13 @@
 {
-  "packages": [
-    {
-      "title": "Title",
-      "author": "Author",
-      "description": "Description",
-      "version": "1.0.0",
-      "args": [],
-      "file": "LINK_TO_FILE",
-      "icon": "LINK_TO_ICON"
-    }
+  "packages": [
+    {
+      "title": "Test package",
+      "author": "kamyshevka",
+      "description": "It is a test project.",
+      "version": "1.0.0",
+      "args": [],
+      "file": "",
+      "icon": ""
+    }
   ]
 }
